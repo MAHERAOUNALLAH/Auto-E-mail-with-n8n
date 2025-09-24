@@ -1,4 +1,4 @@
-🚀 New Automation Project Completed!
+🚀 New Automation Project Completed !
 
 I’ve just finished building an AI-powered email automation workflow with n8n — and I’m really proud of the result!
 
